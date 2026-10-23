@@ -244,4 +244,4 @@ This repository serves as the official landing page for Medieval 2 Total War. Th
 **Get the most recent version of Medieval 2 Total War today!**
 
 ---
-**Last updated:** 2026-10-23 20:57:08 UTC
+**Last updated:** 2026-10-23 23:41:17 UTC
